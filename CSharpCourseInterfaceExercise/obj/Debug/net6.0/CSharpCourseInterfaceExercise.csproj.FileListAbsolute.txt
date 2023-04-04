@@ -1,0 +1,15 @@
+D:\programming\C#\CSharpCourseInterfaceExercise\CSharpCourseInterfaceExercise\bin\Debug\net6.0\CSharpCourseInterfaceExercise.exe
+D:\programming\C#\CSharpCourseInterfaceExercise\CSharpCourseInterfaceExercise\bin\Debug\net6.0\CSharpCourseInterfaceExercise.deps.json
+D:\programming\C#\CSharpCourseInterfaceExercise\CSharpCourseInterfaceExercise\bin\Debug\net6.0\CSharpCourseInterfaceExercise.runtimeconfig.json
+D:\programming\C#\CSharpCourseInterfaceExercise\CSharpCourseInterfaceExercise\bin\Debug\net6.0\CSharpCourseInterfaceExercise.dll
+D:\programming\C#\CSharpCourseInterfaceExercise\CSharpCourseInterfaceExercise\bin\Debug\net6.0\CSharpCourseInterfaceExercise.pdb
+D:\programming\C#\CSharpCourseInterfaceExercise\CSharpCourseInterfaceExercise\obj\Debug\net6.0\CSharpCourseInterfaceExercise.csproj.AssemblyReference.cache
+D:\programming\C#\CSharpCourseInterfaceExercise\CSharpCourseInterfaceExercise\obj\Debug\net6.0\CSharpCourseInterfaceExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\CSharpCourseInterfaceExercise\CSharpCourseInterfaceExercise\obj\Debug\net6.0\CSharpCourseInterfaceExercise.AssemblyInfoInputs.cache
+D:\programming\C#\CSharpCourseInterfaceExercise\CSharpCourseInterfaceExercise\obj\Debug\net6.0\CSharpCourseInterfaceExercise.AssemblyInfo.cs
+D:\programming\C#\CSharpCourseInterfaceExercise\CSharpCourseInterfaceExercise\obj\Debug\net6.0\CSharpCourseInterfaceExercise.csproj.CoreCompileInputs.cache
+D:\programming\C#\CSharpCourseInterfaceExercise\CSharpCourseInterfaceExercise\obj\Debug\net6.0\CSharpCourseInterfaceExercise.dll
+D:\programming\C#\CSharpCourseInterfaceExercise\CSharpCourseInterfaceExercise\obj\Debug\net6.0\refint\CSharpCourseInterfaceExercise.dll
+D:\programming\C#\CSharpCourseInterfaceExercise\CSharpCourseInterfaceExercise\obj\Debug\net6.0\CSharpCourseInterfaceExercise.pdb
+D:\programming\C#\CSharpCourseInterfaceExercise\CSharpCourseInterfaceExercise\obj\Debug\net6.0\CSharpCourseInterfaceExercise.genruntimeconfig.cache
+D:\programming\C#\CSharpCourseInterfaceExercise\CSharpCourseInterfaceExercise\obj\Debug\net6.0\ref\CSharpCourseInterfaceExercise.dll
